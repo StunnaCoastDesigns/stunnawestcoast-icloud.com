@@ -1,0 +1,2 @@
+# stunnawestcoast-icloud.com
+DailySmartyStaticApp
